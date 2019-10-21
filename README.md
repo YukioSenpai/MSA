@@ -1,2 +1,2 @@
 # MSA
-Movies/Series Assistant
+Pokemon reference using API
